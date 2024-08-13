@@ -6,6 +6,7 @@ export default {
   component: Text,
 
   args: {
+    size: 'md',
     children:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit reprehenderit laboriosam magnam nam, provident ab voluptatibus delectus, maiores nostrum, dolor deleniti perspiciatis fugit officia. Libero aperiam doloremque odio adipisci distinctio?',
   },

@@ -8,6 +8,9 @@ export default {
 
   args: {
     children: 'Send',
+    variant: 'primary',
+    size: 'md',
+    disabled: false,
   },
 } as Meta<ButtonProps>
 
